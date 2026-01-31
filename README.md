@@ -1,1 +1,0 @@
-# Locally-Deployable-SLM-for-Automated-Drafting-of-Indian-Contract-Act-ICA-Legal-Documents
